@@ -1,0 +1,28 @@
+{
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "kaorun343",
+      "url": "https://github.com/kaorun343"
+    },
+    {
+      "name": "Somo S.",
+      "url": "https://github.com/somombo"
+    }
+  ],
+  "private": true,
+  "peerDependencies": {
+    "vue": "^2.5.13"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for vue-resoure",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/vue-resource",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "version": "10.0.4"
+}
